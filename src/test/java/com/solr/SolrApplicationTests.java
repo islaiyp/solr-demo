@@ -4,7 +4,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 /**
  * @Description: 启动类
- * @Author: islaiyp yongpeng.lai@abite.com
+ * @Author: islaiyp islaiyp@163.com
  * @Date: 2022/6/22 23:43
  */
 @SpringBootTest
